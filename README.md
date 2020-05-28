@@ -9,5 +9,5 @@
 
 ### Howto (DTS file only)
 
-- copy dts file to ````/boot/overlays```` or execute ````sudo make install````
+- copy dtbo file to ````/boot/overlays```` or use ````sudo make install````
 - add the line ````dtoverlay=hzg-hat```` to the end of your ````/boot/config.txt```` 
